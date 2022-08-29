@@ -1,10 +1,61 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+.head {
+    text-align: left;
+    color: white;
+    font-size: 42px;
+    font-family: Arial; sans-serif;
+    background-color: #77adda;
+    padding: 20px;
+}
 
-</body>
-</html>
+.project1 {
+    font-family: Arial; sans-serif;
+    font-size: 22px;
+    background-color: #9BE45E;
+    color: white;
+    padding: 20px;
+    height: 200px;
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}
+
+.project2 {
+    font-size: 22px;
+    font-family: Arial; sans-serif;
+    background-color: #E4C55E;
+    padding: 20px;
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #77adda;
+    color: white;
+    font-size: 22px;
+    font-family: Arial; sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    background-color: white;
+}
+
+.p1 {
+    font-size: 16px;
+    color: black;
+    padding: 10px;
+}
+
+.mail {
+    color: #F7064C;
+}
