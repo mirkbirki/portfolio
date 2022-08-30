@@ -17,6 +17,7 @@
     flex: 1;
     text-align: center;
     font-weight: bold;
+    margin-top: 30px;
 }
 
 .project2 {
@@ -27,6 +28,7 @@
     flex: 1;
     text-align: center;
     font-weight: bold;
+    margin-top: 30px;
 }
 
 footer {
@@ -36,6 +38,7 @@ footer {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
+    margin-top: 30px;
 }
 
 main {
@@ -58,4 +61,54 @@ a:hover {
 
 .mail {
     color: #F7064C;
+}
+
+nav {
+    background-color: gray;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    border: 4px solid #ffffff;
+    background-color: gray;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: black;
+}
+
+div {
+    margin: 10px;
+    position: center;
+}
+
+.t {
+    display: table;
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    display: table-row;
+}
+
+li {
+    display: table-cell;
+}
+
+iframe {
+    display: block;
 }
